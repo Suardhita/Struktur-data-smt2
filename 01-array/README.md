@@ -11,11 +11,12 @@ Fungsi array di program ini:
 
 # 2. Hasil dari tugas ini
 - Input Nilai
-- <img width="294" height="194" alt="Screenshot 2026-03-25 235402" src="https://github.com/user-attachments/assets/6833de31-b0cf-4b61-855a-a0488e9d733d" />
+  <img width="294" height="194" alt="Screenshot 2026-03-25 235402" src="https://github.com/user-attachments/assets/6833de31-b0cf-4b61-855a-a0488e9d733d" />
 
 - Output Nilai
+  
+<img width="497" height="144" alt="Screenshot 2026-03-25 235410" src="https://github.com/user-attachments/assets/1e4ae9d5-9159-436a-b795-8920a6716d72" />
 
-   <img width="648" height="116" alt="image" src="https://github.com/user-attachments/assets/45a48341-ef4c-4d1f-8cc5-b52d0d7e36ad" />
 
 - Grafik Kelulusan
 
