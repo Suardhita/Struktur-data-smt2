@@ -17,11 +17,6 @@ Fungsi array di program ini:
 
    <img width="648" height="116" alt="image" src="https://github.com/user-attachments/assets/45a48341-ef4c-4d1f-8cc5-b52d0d7e36ad" />
 
-- Grafik Nilai
-
-<img width="497" height="144" alt="Screenshot 2026-03-25 235410" src="https://github.com/user-attachments/assets/19df71f9-a36e-486f-a9c9-bc9df555fe0a" />
-
-
 - Grafik Kelulusan
 
 <img width="638" height="555" alt="Screenshot 2026-03-25 235253" src="https://github.com/user-attachments/assets/16aab9cc-42ec-4d91-849b-0f8ea6c2b580" />
